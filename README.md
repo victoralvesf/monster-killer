@@ -1,6 +1,6 @@
 # Monster Killer
 
-Remake for the project 'Matador de Monstro' from the course 'Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)' by https://github.com/cod3rcursos
+Remake of the project 'Matador de Monstro' from the course 'Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)' by https://github.com/cod3rcursos
 
 **If you are using NPM just change yarn for npm**
 
